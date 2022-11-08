@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>08F9E267-6C8B-46C5-A012-41FCD193C656</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08F9E267-6C8B-46C5-A012-41FCD193C656.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Final Project project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Final Project</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Final Project</string>
+			<key>timeStartedRecording</key>
+			<real>689625876.28192902</real>
+			<key>timeStoppedRecording</key>
+			<real>689625877.51903605</real>
+			<key>title</key>
+			<string>Build Final Project</string>
+			<key>uniqueIdentifier</key>
+			<string>08F9E267-6C8B-46C5-A012-41FCD193C656</string>
+		</dict>
+		<key>AF2EFD71-7054-43E1-BC93-C8C413FDA5A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AF2EFD71-7054-43E1-BC93-C8C413FDA5A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Final Project project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Final Project</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Final Project</string>
+			<key>timeStartedRecording</key>
+			<real>689625898.308676</real>
+			<key>timeStoppedRecording</key>
+			<real>689625898.80595601</real>
+			<key>title</key>
+			<string>Build Final Project</string>
+			<key>uniqueIdentifier</key>
+			<string>AF2EFD71-7054-43E1-BC93-C8C413FDA5A8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
